@@ -1,0 +1,2 @@
+# ZtrolixBot
+A discord bot.
